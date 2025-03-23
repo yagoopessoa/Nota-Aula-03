@@ -1,3 +1,5 @@
+package Questao02;
+
 public class Animal {
 
     private float tamanho;

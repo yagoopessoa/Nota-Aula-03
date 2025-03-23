@@ -1,3 +1,5 @@
+package Questao02;
+
 public class Leao extends Animal{
 
     private boolean juba;

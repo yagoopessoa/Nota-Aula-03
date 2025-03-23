@@ -1,3 +1,5 @@
+package Questao02;
+
 public class Cavalo extends Animal {
     private String raca;
 
