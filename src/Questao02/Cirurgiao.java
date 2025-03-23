@@ -1,4 +1,4 @@
-package Questao01;
+package Questao02;
 
 public class Cirurgiao extends Medico{
 
